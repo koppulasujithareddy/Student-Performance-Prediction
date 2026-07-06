@@ -6,7 +6,7 @@ This project uses Machine Learning (Linear Regression) to predict student marks 
 
 ## Technologies Used
 
-* Python 
+* Python
 * Pandas
 * NumPy
 * Matplotlib
