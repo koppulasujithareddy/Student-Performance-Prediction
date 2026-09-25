@@ -4,7 +4,7 @@
 
 This project uses Machine Learning (Linear Regression) to predict student marks based on the number of hours studied.
 
-## Technologies Used
+## Technologies Used  
 
 * Python 
 * Pandas
